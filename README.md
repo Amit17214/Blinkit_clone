@@ -1,1 +1,1 @@
-# Blinkit_clone=https://amit17214.github.io/Blinkit_clone/
+##Deploy Link=https: [Project Link](//amit17214.github.io/Blinkit_clone/)
